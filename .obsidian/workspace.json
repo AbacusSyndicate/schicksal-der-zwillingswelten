@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unbenannt/Test.md",
+                "file": "Gruppen/Freundlich/Kuo-toa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Kuo-toa"
             }
           }
         ]
@@ -176,10 +176,10 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "b0a0379376574e32",
+  "active": "a33a81ca2ceeef7d",
   "lastOpenFiles": [
-    "Gruppen/Freundlich/Kuo-toa.md",
     "Unbenannt/Test.md",
+    "Gruppen/Freundlich/Kuo-toa.md",
     "Unbenannt",
     "Wichtige Ereignisse/7. Der Stollen bei der Straße des Goldes.md",
     "Party/Kharad.md",
