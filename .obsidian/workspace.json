@@ -11,10 +11,14 @@
             "id": "a33a81ca2ceeef7d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graphansicht"
+              "type": "markdown",
+              "state": {
+                "file": "Gruppen/Freundlich/Kuo-toa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kuo-toa"
             }
           }
         ]
@@ -174,6 +178,8 @@
   },
   "active": "a33a81ca2ceeef7d",
   "lastOpenFiles": [
+    "Wichtige Ereignisse/7. Der Stollen bei der Straße des Goldes.md",
+    "Gruppen/Freundlich/Kuo-toa.md",
     "Party/Kharad.md",
     "Party/Leonas Helios (der Inquisitor).md",
     "Party/Shade Vector.md",
@@ -182,12 +188,10 @@
     "Orte/Wegfels.md",
     "Maps/Map_Zwillingswelten.jpg",
     "Maps",
-    "Wichtige Ereignisse/7. Der Stollen bei der Straße des Goldes.md",
     "Wichtige Ereignisse/6. Ereignisse vor der Verfolgung der Kultisten.md",
     "Wichtige Ereignisse/5. Die Einberufung des Rats.md",
     "Wichtige Ereignisse/3. Die Infiltration des Kultistenlagers.md",
     "Wichtige Ereignisse/4. Die nächtliche Überraschung.md",
-    "Gruppen/Freundlich/Kuo-toa.md",
     "Gruppen/Freundlich/Millerstones.md",
     "NPC/Wegfels/Bormino Eisensplitter.md",
     "Party/Furzl.md",
