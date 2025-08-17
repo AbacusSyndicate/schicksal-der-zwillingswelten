@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privat/Backstory Drogan.md",
+                "file": "Privat/Monsteressenzen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backstory Drogan"
+              "title": "Monsteressenzen"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "a33a81ca2ceeef7d",
   "lastOpenFiles": [
-    "Privat/Monsteressenzen.md",
+    "Privat/Garrik Kupferhammer.md",
     "Privat/Backstory Drogan.md",
+    "NPC/Wegfels/Bormino Eisensplitter.md",
+    "Privat/Monsteressenzen.md",
     "Privat/Magische Items.md",
     "Gruppen/Freundlich/Kuo-toa.md",
     "Privat",
@@ -198,7 +200,6 @@
     "Wichtige Ereignisse/3. Die Infiltration des Kultistenlagers.md",
     "Wichtige Ereignisse/4. Die nächtliche Überraschung.md",
     "Gruppen/Freundlich/Millerstones.md",
-    "NPC/Wegfels/Bormino Eisensplitter.md",
     "Party/Furzl.md",
     "Orte/Straße des Goldes.md",
     "Maps/WegfelsMap.png",
@@ -207,7 +208,6 @@
     "Gruppen/Feindlich/Kult des einen Willens.md",
     "Gruppen/Feindlich/Eisenwurzeln.md",
     "Besondere Gegner/Sonstige/Shield Guardian.md",
-    "Besondere Gegner/Sonstige/Iota.md",
     "Wichtige Items",
     "Private",
     "Fights",
