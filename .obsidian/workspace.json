@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Privat/Monsteressenzen für Bormino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links"
+              "title": "Ausgehende Links von Monsteressenzen für Bormino öffnen"
             }
           },
           {
@@ -140,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Privat/Monsteressenzen für Bormino.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Gliederung von Monsteressenzen für Bormino"
             }
           },
           {
@@ -159,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +178,7 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "a33a81ca2ceeef7d",
+  "active": "9097cfadd309787a",
   "lastOpenFiles": [
     "Privat/Garrik Kupferhammer.md",
     "Privat/Backstory Drogan.md",
