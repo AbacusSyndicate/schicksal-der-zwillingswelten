@@ -17,10 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.5688821166515932,
-=======
-  "scale": 0.7132754626224425,
->>>>>>> d38826a (Initial Commit)
-  "close": true
+  "scale": 1.4019828977761033,
+  "close": false
 }
