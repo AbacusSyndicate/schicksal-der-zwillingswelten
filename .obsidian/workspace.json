@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orte/Wegfels.md",
+                "file": "Party/Kharad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wegfels"
+              "title": "Kharad"
             }
           }
         ]
@@ -178,16 +178,19 @@
   },
   "active": "a33a81ca2ceeef7d",
   "lastOpenFiles": [
+    "Party/Leonas Helios (der Inquisitor).md",
+    "Party/Shade Vector.md",
+    "Party/Kharad.md",
+    "Party/Eldric Keth.md",
+    "Party/Drogan.md",
+    "Orte/Wegfels.md",
     "Maps/Map_Zwillingswelten.jpg",
     "Maps",
     "Wichtige Ereignisse/7. Der Stollen bei der Straße des Goldes.md",
     "Wichtige Ereignisse/6. Ereignisse vor der Verfolgung der Kultisten.md",
-    "Party/Drogan.md",
-    "Party/Leonas Helios (der Inquisitor).md",
     "Wichtige Ereignisse/5. Die Einberufung des Rats.md",
     "Wichtige Ereignisse/3. Die Infiltration des Kultistenlagers.md",
     "Wichtige Ereignisse/4. Die nächtliche Überraschung.md",
-    "Party/Eldric Keth.md",
     "Gruppen/Freundlich/Kuo-toa.md",
     "Gruppen/Freundlich/Millerstones.md",
     "NPC/Wegfels/Bormino Eisensplitter.md",
@@ -204,8 +207,6 @@
     "Besondere Gegner/Namentlich genannte/Klezorg Retch.md",
     "Besondere Gegner/Namentlich genannte/Anführer des Kult des einen Willens.md",
     "Besondere Gegner/Namentlich genannte/Marth Everant.md",
-    "Wichtige Ereignisse/1. Angriff des Kults auf Wegfels.md",
-    "NPC/Wegfels/Alrik Nornfels.md",
     "Wichtige Items",
     "Private",
     "Fights",
