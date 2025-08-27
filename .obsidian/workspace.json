@@ -169,9 +169,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Graph-Ansicht öffnen": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
