@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a33a81ca2ceeef7d",
+            "id": "ae5d686daac052b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privat/Monsteressenzen für Bormino.md",
+                "file": "Wichtige Ereignisse/2. Der Überraschungsangriff der Kultisten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monsteressenzen für Bormino"
+              "title": "2. Der Überraschungsangriff der Kultisten"
+            }
+          },
+          {
+            "id": "9319d49757dd943a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Orte/Goldsee.md",
+                "bFile": "Orte/Goldsee.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Goldsee"
             }
           }
         ]
@@ -112,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privat/Monsteressenzen für Bormino.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Monsteressenzen für Bormino öffnen"
+              "title": "Ausgehende Links von conflict-files-obsidian-git öffnen"
             }
           },
           {
@@ -161,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,26 +185,36 @@
     "hiddenItems": {
       "graph:Graph-Ansicht öffnen": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Schnellauswahl öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false
+      "command-palette:Befehlspalette öffnen": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9097cfadd309787a",
+  "active": "ae5d686daac052b8",
   "lastOpenFiles": [
-    "Privat/Garrik Kupferhammer.md",
     "Privat/Backstory Drogan.md",
-    "NPC/Wegfels/Bormino Eisensplitter.md",
     "Privat/Monsteressenzen für Bormino.md",
-    "Privat/Magische Items.md",
+    "Privat/Garrik Kupferhammer.md",
+    "Party/Kharad.md",
+    "Party/Furzl.md",
+    "NPC/König von Luxara.md",
+    "NPC/Kagha.md",
+    "Gruppen/Feindlich/Kult des einen Willens.md",
+    "Gruppen/Feindlich/Eisenwurzeln.md",
     "Gruppen/Freundlich/Kuo-toa.md",
+    "Gruppen/Freundlich/Millerstones.md",
+    "Gruppen/Druiden des Mondzirkels.md",
+    "Wichtige Ereignisse/8. Der Goldsee.md",
+    "conflict-files-obsidian-git.md",
+    "Orte/Goldsee.md",
+    "Wichtige Ereignisse/7. Der Stollen bei der Straße des Goldes.md",
+    "NPC/Wegfels/Bormino Eisensplitter.md",
+    "Privat/Magische Items.md",
     "Privat",
     "Unbenannt/Test.md",
-    "Wichtige Ereignisse/7. Der Stollen bei der Straße des Goldes.md",
-    "Party/Kharad.md",
     "Party/Leonas Helios (der Inquisitor).md",
     "Party/Shade Vector.md",
     "Party/Eldric Keth.md",
@@ -200,17 +224,7 @@
     "Maps",
     "Wichtige Ereignisse/6. Ereignisse vor der Verfolgung der Kultisten.md",
     "Wichtige Ereignisse/5. Die Einberufung des Rats.md",
-    "Wichtige Ereignisse/3. Die Infiltration des Kultistenlagers.md",
-    "Wichtige Ereignisse/4. Die nächtliche Überraschung.md",
-    "Gruppen/Freundlich/Millerstones.md",
-    "Party/Furzl.md",
-    "Orte/Straße des Goldes.md",
     "Maps/WegfelsMap.png",
-    "Magie/Arkanzellen.md",
-    "Magie/Arkane Magie.md",
-    "Gruppen/Feindlich/Kult des einen Willens.md",
-    "Gruppen/Feindlich/Eisenwurzeln.md",
-    "Besondere Gegner/Sonstige/Shield Guardian.md",
     "Wichtige Items",
     "Private",
     "Fights",
