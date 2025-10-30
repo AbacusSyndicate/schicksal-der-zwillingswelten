@@ -1,0 +1,2 @@
+- Schmied in der Festung der Kultisten
+- Rasse: Zwerg
