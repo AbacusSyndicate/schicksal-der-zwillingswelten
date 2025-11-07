@@ -1,2 +1,2 @@
-- Schmied in der Festung der Kultisten
+- Schmied in der Festung der [[Kult des einen Willens|Kultisten]]
 - Rasse: Zwerg
