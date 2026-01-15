@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eabf995fc334a499",
+        "id": "da960ee9de541a98",
         "type": "tabs",
         "children": [
           {
-            "id": "8a8ca0a4563d4cf7",
+            "id": "ab0dac2dd90182a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wichtige Ereignisse/9. Die Anklage in Wegfels.md",
+                "file": "Orte/Luxara/Aurealis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Die Anklage in Wegfels"
-            }
-          },
-          {
-            "id": "a75a655d5422fef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gruppen/Freundlich/Millerstones/sonstige Familie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sonstige Familie"
+              "title": "Aurealis"
             }
           }
         ]
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349.5
   },
   "right": {
     "id": "be8882970185dee5",
@@ -194,37 +180,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a8ca0a4563d4cf7",
+  "active": "ab0dac2dd90182a5",
   "lastOpenFiles": [
-    "Party/James von Millerstone.md",
+    "NPC/Mühlenbrock/Pablo.md",
+    "Maps/Map_Zwillingswelten.jpg",
+    "NPC/Mühlenbrock/Franco Francesco.md",
+    "NPC/Mühlenbrock/Bern.md",
+    "Wichtige Ereignisse/Historisch/Der Einheitskrieg (401 NKP).md",
+    "Orte/Luxara/Mühlenbrock.md",
+    "Der Einheitskrieg (401 NKP)].md",
+    "Besondere Gegner/Namentlich genannte/Anführer des Kult des einen Willens.md",
+    "Gruppen/Feindlich/Kult des einen Willens.md",
+    "Gruppen/Feindlich/Eisenwurzeln.md",
+    "Pasted image 20260115200644.png",
+    "Orte/Luxara/Wegfels.md",
+    "Orte/Luxara",
+    "Orte/Untitled.md",
+    "Gruppen/Neutral/Elendar.md",
+    "Gruppen/Freundlich/Druiden des Mondzirkels.md",
     "Party/Fiktiv/Plandorius.md",
-    "Wichtige Ereignisse/9. Die Anklage in Wegfels.md",
+    "Gruppen/Neutral",
+    "Welten/Luxara.md",
+    "NPC/Mühlenbrock/Anton (und seine Söhne).md",
+    "NPC/Wegfels/Alrik Nornfels.md",
+    "NPC/Mühlenbrock",
+    "NPC/Wegfels/Bob.md",
+    "Wichtige Ereignisse/Historisch",
     "Gruppen/Freundlich/Millerstones/sonstige Familie.md",
+    "Wichtige Ereignisse/9. Die Anklage in Wegfels.md",
+    "NPC/Wegfels/Manfred von Wegfels.md",
+    "Party/James von Millerstone.md",
     "Wichtige Ereignisse/8. Der Goldsee.md",
     "Gruppen/Freundlich/Kuo-toa.md",
-    "Gruppen/Druiden des Mondzirkels.md",
     "Gruppen/Freundlich/Millerstones/Jack von Millerstone.md",
-    "Gruppen/Freundlich/Millerstones/Alric von Millerstone.md",
-    "Gruppen/Freundlich/Millerstones.md",
     "Gruppen/Freundlich/Millerstones",
-    "Gruppen/Die Millerstones.md",
-    "Besondere Gegner/Namentlich genannte/Marth Everant.md",
-    "Besondere Gegner/Namentlich genannte/Professor Dr Heinrich Kemmler.md",
-    "NPC/Bulan Malor.md",
-    "NPC/Kagha.md",
-    "Party/Drogan.md",
-    "Party/Brogron.md",
-    "Besondere Gegner/Namentlich genannte/Anführer des Kult des einen Willens.md",
-    "NPC/Bellegir.md",
-    "Besondere Gegner/Namentlich genannte/Schattendrache.md",
-    "Magische Items/Rüstung/Cloak of Protection.md",
-    "Maps/Map_Zwillingswelten.jpg",
     "Maps/WegfelsMap.png",
-    "Party/Fiktiv",
-    "NPC/Alfred Graubart.md",
-    "NPC/König von Luxara.md",
-    "Besondere Gegner/Namentlich genannte/Kalen Caldus.md",
-    "Besondere Gegner/Namentlich genannte/Klezorg Retch.md",
-    "Magie/Arkane Magie.md"
+    "Party/Fiktiv"
   ]
 }

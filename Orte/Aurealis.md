@@ -1,1 +1,0 @@
-Hauptstadt von [[Luxara]]

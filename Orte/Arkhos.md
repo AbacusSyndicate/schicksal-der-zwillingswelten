@@ -1,2 +1,0 @@
-Hauptstadt von [[Tenebris]]
-
