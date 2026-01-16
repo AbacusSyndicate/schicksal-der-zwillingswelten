@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orte/Luxara/Aurealis.md",
+                "file": "Private/Dice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aurealis"
+              "title": "Dice"
+            }
+          },
+          {
+            "id": "909769c01a220fb1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Maps/Mühlenbrock.png"
+              },
+              "icon": "lucide-image",
+              "title": "Mühlenbrock"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab0dac2dd90182a5",
+  "active": "a1ad5c3320191eef",
   "lastOpenFiles": [
+    "Private/Dice.md",
+    "Orte/Luxara/Aurealis.md",
+    "Private",
     "NPC/Mühlenbrock/Pablo.md",
     "Maps/Map_Zwillingswelten.jpg",
     "NPC/Mühlenbrock/Franco Francesco.md",
@@ -192,7 +208,7 @@
     "Besondere Gegner/Namentlich genannte/Anführer des Kult des einen Willens.md",
     "Gruppen/Feindlich/Kult des einen Willens.md",
     "Gruppen/Feindlich/Eisenwurzeln.md",
-    "Pasted image 20260115200644.png",
+    "Maps/Mühlenbrock.png",
     "Orte/Luxara/Wegfels.md",
     "Orte/Luxara",
     "Orte/Untitled.md",
@@ -212,7 +228,6 @@
     "Party/James von Millerstone.md",
     "Wichtige Ereignisse/8. Der Goldsee.md",
     "Gruppen/Freundlich/Kuo-toa.md",
-    "Gruppen/Freundlich/Millerstones/Jack von Millerstone.md",
     "Gruppen/Freundlich/Millerstones",
     "Maps/WegfelsMap.png",
     "Party/Fiktiv"
