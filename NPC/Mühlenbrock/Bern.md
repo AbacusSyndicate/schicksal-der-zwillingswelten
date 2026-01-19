@@ -1,2 +1,2 @@
-
-- Bauer in Mühlenbrock
+- Bauer in [[Mühlenbrock]]
+- bekannt für seinen Weinsprudel
