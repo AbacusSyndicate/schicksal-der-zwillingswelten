@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Besondere Gegner/Sonstige/Seraph.md",
+                "file": "Ebenen/Materielle Ebene/Welten/Orte in Luxara/Aurealis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seraph"
+              "title": "Aurealis"
             }
           }
         ]
@@ -182,9 +182,23 @@
   },
   "active": "909769c01a220fb1",
   "lastOpenFiles": [
-    "Wichtige Ereignisse/8. Der Goldsee.md",
-    "Besondere Gegner/Sonstige/Seraph.md",
+    "Ebenen/Materielle Ebene/Welten/Luxara.md",
+    "Ebenen/Shadowfell",
+    "Ebenen/Materielle Ebene/Welten/Orte in Tenebris",
+    "Ebenen/Materielle Ebene/Welten/Orte in Luxara/Mühlenbrock.md",
+    "Ebenen/Materielle Ebene/Welten/Tenebris.md",
+    "Ebenen/Materielle Ebene/Welten/Orte in Luxara/Aurealis.md",
+    "Ebenen/Materielle Ebene/Welten/Untitled.md",
+    "Ebenen/Materielle Ebene/Welten/Orte in Luxara/Goldsee.md",
+    "Ebenen/Materielle Ebene/Welten/Orte in Luxara/Straße des Goldes.md",
+    "Ebenen/Materielle Ebene/Welten/Orte in Luxara/Wegfels.md",
+    "Ebenen/Materielle Ebene/Welten/Orte",
+    "Ebenen/Materielle Ebene/Welten",
+    "Ebenen/Materielle Ebene",
+    "Ebenen",
     "Wichtige Ereignisse/9. Die Anklage in Wegfels.md",
+    "Besondere Gegner/Sonstige/Seraph.md",
+    "Wichtige Ereignisse/8. Der Goldsee.md",
     "Besondere Gegner/Namentlich genannte/Tot/Anführer des Kult des einen Willens.md",
     "Besondere Gegner/Namentlich genannte/Tot",
     "Besondere Gegner/Namentlich genannte/Kalen Caldus.md",
@@ -200,24 +214,11 @@
     "NPC/Mühlenbrock/Bern.md",
     "NPC/Mühlenbrock/Anton (und seine Söhne).md",
     "NPC/Mühlenbrock/Franco Francesco.md",
-    "NPC/Mühlenbrock/Pablo.md",
-    "Gruppen/Neutral/Elendar.md",
     "Maps/Map_Zwillingswelten.jpg",
     "Maps/Mühlenbrock.png",
     "Maps/WegfelsMap.png",
-    "Party/Rolf Silvernote.md",
-    "Private/Dice.md",
-    "Orte/Luxara/Aurealis.md",
     "Private",
-    "Orte/Luxara/Mühlenbrock.md",
-    "Der Einheitskrieg (401 NKP)].md",
-    "Gruppen/Feindlich/Kult des einen Willens.md",
-    "Gruppen/Feindlich/Eisenwurzeln.md",
-    "Orte/Luxara",
-    "Gruppen/Neutral",
-    "NPC/Mühlenbrock",
-    "Wichtige Ereignisse/Historisch",
-    "Gruppen/Freundlich/Millerstones",
-    "Party/Fiktiv"
+    "Ebenen/Materielle Ebene/Welten/Orte in Luxara",
+    "Gruppen/Neutral"
   ]
 }
