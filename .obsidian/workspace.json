@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "da960ee9de541a98",
+        "id": "223bc3c21fe67063",
         "type": "tabs",
         "children": [
           {
-            "id": "ab0dac2dd90182a5",
+            "id": "5b1bbb1121f80eef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Dice.md",
+                "file": "Besondere Gegner/Namentlich genannte/Bei Mühlenbrock/Yerrow (Schildkröte).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dice"
-            }
-          },
-          {
-            "id": "909769c01a220fb1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Maps/Mühlenbrock.png"
-              },
-              "icon": "lucide-image",
-              "title": "Mühlenbrock"
+              "title": "Yerrow (Schildkröte)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,9 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1ad5c3320191eef",
+  "active": "5b1bbb1121f80eef",
   "lastOpenFiles": [
+    "Besondere Gegner/Namentlich genannte/Bei Mühlenbrock/Detlef (Krabbe).md",
+    "Besondere Gegner/Namentlich genannte/Bei Mühlenbrock/Yerrow (Schildkröte).md",
     "Private/Dice.md",
+    "Besondere Gegner/Namentlich genannte/Bei Mühlenbrock",
+    "Maps/Mühlenbrock.png",
     "Orte/Luxara/Aurealis.md",
     "Private",
     "NPC/Mühlenbrock/Pablo.md",
@@ -208,7 +199,6 @@
     "Besondere Gegner/Namentlich genannte/Anführer des Kult des einen Willens.md",
     "Gruppen/Feindlich/Kult des einen Willens.md",
     "Gruppen/Feindlich/Eisenwurzeln.md",
-    "Maps/Mühlenbrock.png",
     "Orte/Luxara/Wegfels.md",
     "Orte/Luxara",
     "Orte/Untitled.md",
@@ -226,8 +216,6 @@
     "Wichtige Ereignisse/9. Die Anklage in Wegfels.md",
     "NPC/Wegfels/Manfred von Wegfels.md",
     "Party/James von Millerstone.md",
-    "Wichtige Ereignisse/8. Der Goldsee.md",
-    "Gruppen/Freundlich/Kuo-toa.md",
     "Gruppen/Freundlich/Millerstones",
     "Maps/WegfelsMap.png",
     "Party/Fiktiv"
