@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "223bc3c21fe67063",
+        "id": "139ad4b77fd64b3f",
         "type": "tabs",
         "children": [
           {
-            "id": "5b1bbb1121f80eef",
+            "id": "8cc46a174be217d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Besondere Gegner/Namentlich genannte/Bei Mühlenbrock/Yerrow (Schildkröte).md",
+                "file": "Wichtige Ereignisse/Historisch/Der Einheitskrieg (401 NKP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yerrow (Schildkröte)"
+              "title": "Der Einheitskrieg (401 NKP)"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wichtige Ereignisse/9. Die Anklage in Wegfels.md",
+                "file": "Wichtige Ereignisse/Historisch/Der Einheitskrieg (401 NKP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 9. Die Anklage in Wegfels"
+              "title": "Outgoing links from Der Einheitskrieg (401 NKP)"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wichtige Ereignisse/9. Die Anklage in Wegfels.md",
+                "file": "Wichtige Ereignisse/Historisch/Der Einheitskrieg (401 NKP).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 9. Die Anklage in Wegfels"
+              "title": "Outline of Der Einheitskrieg (401 NKP)"
             }
           },
           {
@@ -180,11 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b1bbb1121f80eef",
+  "active": "8cc46a174be217d5",
   "lastOpenFiles": [
-    "Besondere Gegner/Namentlich genannte/Bei Mühlenbrock/Detlef (Krabbe).md",
-    "Besondere Gegner/Namentlich genannte/Bei Mühlenbrock/Yerrow (Schildkröte).md",
+    "Besondere Gegner/Namentlich genannte/Bei Mühlenbrock/Riesen Maulwurf Viech.md",
+    "Wichtige Ereignisse/10. Die Infiltration der Kobold Höhle.md",
+    "Wichtige Ereignisse/9. Die Anklage in Wegfels.md",
     "Private/Dice.md",
+    "Besondere Gegner/Namentlich genannte/Bei Mühlenbrock/Yerrow (Schildkröte).md",
+    "Besondere Gegner/Namentlich genannte/Anführer des Kult des einen Willens.md",
+    "Besondere Gegner/Namentlich genannte/Bei Mühlenbrock/Detlef (Krabbe).md",
     "Besondere Gegner/Namentlich genannte/Bei Mühlenbrock",
     "Maps/Mühlenbrock.png",
     "Orte/Luxara/Aurealis.md",
@@ -196,7 +200,6 @@
     "Wichtige Ereignisse/Historisch/Der Einheitskrieg (401 NKP).md",
     "Orte/Luxara/Mühlenbrock.md",
     "Der Einheitskrieg (401 NKP)].md",
-    "Besondere Gegner/Namentlich genannte/Anführer des Kult des einen Willens.md",
     "Gruppen/Feindlich/Kult des einen Willens.md",
     "Gruppen/Feindlich/Eisenwurzeln.md",
     "Orte/Luxara/Wegfels.md",
@@ -213,9 +216,6 @@
     "NPC/Wegfels/Bob.md",
     "Wichtige Ereignisse/Historisch",
     "Gruppen/Freundlich/Millerstones/sonstige Familie.md",
-    "Wichtige Ereignisse/9. Die Anklage in Wegfels.md",
-    "NPC/Wegfels/Manfred von Wegfels.md",
-    "Party/James von Millerstone.md",
     "Gruppen/Freundlich/Millerstones",
     "Maps/WegfelsMap.png",
     "Party/Fiktiv"

@@ -1,1 +1,1 @@
-Kobold sagt, dass Yerrow zu Litch werden kann
+Kobold sagt, dass Yerrow zu Lich werden kann

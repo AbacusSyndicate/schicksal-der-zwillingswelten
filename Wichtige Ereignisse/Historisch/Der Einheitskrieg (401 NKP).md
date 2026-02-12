@@ -3,3 +3,5 @@
 - die Königshäuser des Osten wandte sich gegen diese und es kam zum Krieg
   
   Ergebnis: --> Einheitliches Königreich wird gegründet 
+
+NKP = Nach dem Konvergenzpakt
