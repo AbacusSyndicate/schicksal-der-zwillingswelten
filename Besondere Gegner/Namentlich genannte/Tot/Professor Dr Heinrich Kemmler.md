@@ -1,4 +1,4 @@
-
+TOT
 ## Qualifikationen ##
 - studierte Arkane Magie mit Spezialisierung auf elektrotechnische Anwendungen
 - entwickelte hochmoderne Maschienen zur Extraktion von arkaner Magie (aus alter Magie)

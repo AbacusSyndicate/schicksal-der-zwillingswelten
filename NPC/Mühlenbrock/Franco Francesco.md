@@ -1,2 +1,2 @@
-
 - Barde in der Taverne von Mühlenbrock
+- Kennt [[Rolf Silvernote]]
