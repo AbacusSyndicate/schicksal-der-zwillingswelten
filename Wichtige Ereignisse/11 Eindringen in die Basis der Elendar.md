@@ -9,7 +9,7 @@ Vision (Drogan sieht):
 Ergebnis: Drogan kann die zeichen der Elendar lesen. 
 
 
-## Alarmanzeige am Computer
+## 2. Alarmanzeige am Computer
 Anzeige: 
 - "Energie in kritischem Bereich"
 - "Fertigungslinie am Limit"
@@ -20,5 +20,35 @@ verschiedene Optionen, jedoch für die miesten keine Berechtigung
 mögliche Optionen: 
 - Sicherheitstüren entriegeln
 - 
+
+auf Anzeige im Aufzugraum: 
+Stockwerke: 
+- Produktionsanlage
+- Erdgeschoss
+- -1 
+- -2 (Ausgang zur Festung)
+
+
+
+## 3. Reaktorraum
+- in einem Raum, welcher mit gammeligen Wasser geflutet ist, befindet isch eine großer Apparatur
+- auf dem nebenstehenden Computer steht, dass es ich um einen Reaktor handelt
+- nebenan: Raum zur Reaktor-Torkontrolle
+
+
+--> es scheint an Energie zu fehlen
+
+Rote Knöpfe: 7/7
+
+## 4. Kampf 
+Beim Betreten in einen nördlichen Raum wird ein Teil der Gruppe (die Party hatte sich aufgeteilt) überfallen. 
+
+
+
+
+
+
+
+
 
 
