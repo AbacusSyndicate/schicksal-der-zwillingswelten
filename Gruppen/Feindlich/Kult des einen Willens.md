@@ -20,3 +20,8 @@ Rangordnung im Kult (wahrscheinlich Stärke):
 2. Schwarzer Kreis weiße Umrandung
 3. Schwarzer Kreis zwei schwarze Umrandungen
 4. Schwarzer Kreis eine schwarzer Umrandung 
+
+Führer: Gott Alimar
+
+- wollen, dass alle Menschen dem einen Willen folgen
+	- durch Indoktrination 
