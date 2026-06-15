@@ -1,0 +1,4 @@
+- sammelt sich unter den seinen 
+- Alkoholiker
+- Sympathie zu [[James von Millerstone]] und [[Rolf Silvernote]]
+- 
