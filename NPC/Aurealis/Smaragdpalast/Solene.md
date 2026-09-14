@@ -1,0 +1,1 @@
+Magierin im Smaragdpalast, hat Kharad untersucht
