@@ -1,4 +1,4 @@
 - König von Aurealis
 - mittleren Alters
 - versucht das beste für das Volk
-- wurde durch persönliche Rückschläge zu einem harten Mann
+- wurde durch persönliche Rückschläge (Frau gestorben) zu einem harten Mann
